@@ -1,0 +1,1 @@
+# BatchUpdateHibernate5
